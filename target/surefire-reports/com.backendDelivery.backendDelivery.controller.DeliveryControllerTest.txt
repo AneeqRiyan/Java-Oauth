@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.backendDelivery.backendDelivery.controller.DeliveryControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.427 s <<< FAILURE! - in com.backendDelivery.backendDelivery.controller.DeliveryControllerTest
+createOrder  Time elapsed: 0.277 s  <<< ERROR!
+org.json.JSONException: End of input at character 0 of 
+	at com.backendDelivery.backendDelivery.controller.DeliveryControllerTest.generateToken(DeliveryControllerTest.java:64)
+

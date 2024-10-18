@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.backendDelivery.backendDelivery.controller.ticketControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.516 s <<< FAILURE! - in com.backendDelivery.backendDelivery.controller.ticketControllerTest
+getOrderTickets  Time elapsed: 0.119 s  <<< ERROR!
+org.json.JSONException: End of input at character 0 of 
+	at com.backendDelivery.backendDelivery.controller.ticketControllerTest.generateToken(ticketControllerTest.java:63)
+
